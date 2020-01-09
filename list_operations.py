@@ -129,8 +129,8 @@ def inner_four(input_list):
     [6, 9, 12, 15]
 
     """
-
-    return []
+    x = input_list[2:6]
+    return x
 
 
 def inner_four_end(input_list):
