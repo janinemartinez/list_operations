@@ -44,7 +44,9 @@ def tail(input_list):
 
     """
 
-    return []
+    x = input_list[1:]
+
+    return x
 
 
 def last(input_list):
