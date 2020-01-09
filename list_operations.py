@@ -58,8 +58,8 @@ def last(input_list):
     'Mar'
 
     """
-
-    return []
+    x = input_list[-1]
+    return x
 
 
 def init(input_list):
