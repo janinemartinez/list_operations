@@ -102,8 +102,8 @@ def last_five(input_list):
     [15, 18, 21, 24, 27]
 
     """
-
-    return []
+    x = input_list[-5:]
+    return x
 
 
 def middle(input_list):
